@@ -1,0 +1,38 @@
+@font-face {
+    font-family: Gt-super;
+    src: url("../gt-super/GT-Super-Display-Light-Trial.otf") format("opentype");
+}
+
+
+/* Color kit */
+
+/* Header - Bg color */
+.header-bg{
+    background-color: #FFC017;
+}
+
+
+
+.header-border{
+    border-bottom: solid 1px rgba(41, 41, 41, 1);
+}
+
+
+.slider-h1{
+    font-size: 106px;
+    color: black;
+    font-weight: bold;
+
+   font-family: "Gt-super";
+}
+
+
+
+
+
+.numicon{
+    font-size: 30px;
+    font-weight: 800;
+ 
+    color: #e6e6e6;
+}
